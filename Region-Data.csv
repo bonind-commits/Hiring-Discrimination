@@ -1,0 +1,37 @@
+﻿region_3cat,region_4cat,region,subregion,country,country_iso3,n,% subregion,% region,% region_3cat
+Americas,Americas,Americas,Latin America and the Caribbean,Argentina,ARG,1,9.09%,1.27%,1.27%
+Americas,Americas,Americas,Latin America and the Caribbean,Brazil,BRA,1,9.09%,1.27%,1.27%
+Americas,Americas,Americas,Latin America and the Caribbean,Jamaica,JAM,1,9.09%,1.27%,1.27%
+Americas,Americas,Americas,Latin America and the Caribbean,Mexico,MEX,5,45.45%,6.33%,6.33%
+Americas,Americas,Americas,Latin America and the Caribbean,Peru,PER,3,27.27%,3.80%,3.80%
+Americas,Americas,Americas,Northern America,Canada,CAN,9,13.24%,11.39%,11.39%
+Americas,Americas,Americas,Northern America,United States of America,USA,59,86.76%,74.68%,74.68%
+Europe,Europe,Europe,Eastern Europe,Czechia,CZE,2,20.00%,0.91%,0.91%
+Europe,Europe,Europe,Eastern Europe,Russian Federation,RUS,8,80.00%,3.64%,3.64%
+Europe,Europe,Europe,Northern Europe,Denmark,DNK,4,5.88%,1.82%,1.82%
+Europe,Europe,Europe,Northern Europe,Finland,FIN,4,5.88%,1.82%,1.82%
+Europe,Europe,Europe,Northern Europe,Ireland,IRL,3,4.41%,1.36%,1.36%
+Europe,Europe,Europe,Northern Europe,Norway,NOR,7,10.29%,3.18%,3.18%
+Europe,Europe,Europe,Northern Europe,Sweden,SWE,31,45.59%,14.09%,14.09%
+Europe,Europe,Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland,GBR,19,27.94%,8.64%,8.64%
+Europe,Europe,Europe,Southern Europe,Greece,GRC,11,30.56%,5.00%,5.00%
+Europe,Europe,Europe,Southern Europe,Italy,ITA,14,38.89%,6.36%,6.36%
+Europe,Europe,Europe,Southern Europe,Spain,ESP,11,30.56%,5.00%,5.00%
+Europe,Europe,Europe,Western Europe,Austria,AUT,6,5.66%,2.73%,2.73%
+Europe,Europe,Europe,Western Europe,Belgium,BEL,26,24.53%,11.82%,11.82%
+Europe,Europe,Europe,Western Europe,France,FRA,19,17.92%,8.64%,8.64%
+Europe,Europe,Europe,Western Europe,Germany,DEU,24,22.64%,10.91%,10.91%
+Europe,Europe,Europe,Western Europe,Germany,GER,24,22.64%,10.91%,10.91%
+Europe,Europe,Europe,Western Europe,Netherlands,NLD,22,20.75%,10.00%,10.00%
+Europe,Europe,Europe,Western Europe,Switzerland,CHE,9,8.49%,4.09%,4.09%
+Other,Other,Africa,Northern Africa,Algeria,DZA,1,100.00%,100.00%,2.78%
+Other,Asia,Asia,Eastern Asia,China,CHN,12,100.00%,42.86%,33.33%
+Other,Asia,Asia,South-eastern Asia,Malaysia,MYS,1,50.00%,3.57%,2.78%
+Other,Asia,Asia,South-eastern Asia,Philippines,PHL,1,50.00%,3.57%,2.78%
+Other,Asia,Asia,Southern Asia,India,IND,4,66.67%,14.29%,11.11%
+Other,Asia,Asia,Southern Asia,Pakistan,PAK,2,33.33%,7.14%,5.56%
+Other,Asia,Asia,Western Asia,Cyprus,CYP,2,25.00%,7.14%,5.56%
+Other,Asia,Asia,Western Asia,Georgia,GEO,2,25.00%,7.14%,5.56%
+Other,Asia,Asia,Western Asia,Israel,ISR,2,25.00%,7.14%,5.56%
+Other,Asia,Asia,Western Asia,Turkey,TUR,2,25.00%,7.14%,5.56%
+Other,Other,Oceania,Australia and New Zealand,Australia,AUS,7,100.00%,100.00%,19.44%

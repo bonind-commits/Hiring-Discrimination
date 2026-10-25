@@ -1,0 +1,119 @@
+﻿ground_id,ground,treatment_class,treatment_group_low,n,%
+1,Race and national origin,African/African American/Black,African American name,4,1.25%
+1,Race and national origin,African/African American/Black,African American origin,1,0.31%
+1,Race and national origin,African/African American/Black,African name,5,1.56%
+1,Race and national origin,African/African American/Black,African or Caribbean name,1,0.31%
+1,Race and national origin,African/African American/Black,Black phenotype,1,0.31%
+1,Race and national origin,African/African American/Black,Black-sounding name,10,3.12%
+1,Race and national origin,African/African American/Black,Congolese name,1,0.31%
+1,Race and national origin,African/African American/Black,Dark phenotype,3,0.93%
+1,Race and national origin,African/African American/Black,Nigerian name and appearance,1,0.31%
+1,Race and national origin,Arab/Maghrebi/Middle Eastern,Arab name,6,1.87%
+1,Race and national origin,Arab/Maghrebi/Middle Eastern,Arab origin,1,0.31%
+1,Race and national origin,Arab/Maghrebi/Middle Eastern,Iraqi or Somali name,2,0.62%
+1,Race and national origin,Arab/Maghrebi/Middle Eastern,Middle Eastern name,11,3.43%
+1,Race and national origin,Arab/Maghrebi/Middle Eastern,Moroccan name,8,2.49%
+1,Race and national origin,Arab/Maghrebi/Middle Eastern,North African name,3,0.93%
+1,Race and national origin,Arab/Maghrebi/Middle Eastern,Somali American name,1,0.31%
+1,Race and national origin,Asian (generic),Asian name,3,0.93%
+1,Race and national origin,Asian (generic),Asian phenotype,1,0.31%
+1,Race and national origin,Asian (generic),Asian-sounding name,1,0.31%
+1,Race and national origin,Central Asian,Tajik or Uzbek name,1,0.31%
+1,Race and national origin,Eastern Asian/South-Eastern Asian,Chinese name,6,1.87%
+1,Race and national origin,Eastern Asian/South-Eastern Asian,Chinese name and appearance,1,0.31%
+1,Race and national origin,Eastern Asian/South-Eastern Asian,Malaysian name,1,0.31%
+1,Race and national origin,Eastern Asian/South-Eastern Asian,Mongolian or Tibetan name,1,0.31%
+1,Race and national origin,Eastern Asian/South-Eastern Asian,Tatar name,1,0.31%
+1,Race and national origin,Eastern European,Polish name,1,0.31%
+1,Race and national origin,Eastern European,Romanian name,1,0.31%
+1,Race and national origin,Eastern European,Russian name,1,0.31%
+1,Race and national origin,Eastern European,Ukrainian name,1,0.31%
+1,Race and national origin,Eastern European,Ukrainian origin,1,0.31%
+1,Race and national origin,Hispanic/Latin American/Caribbean,Antillean name,1,0.31%
+1,Race and national origin,Hispanic/Latin American/Caribbean,"Cuban, Dominican, Ecuadorian, Mexican, Puerto Rican, or Salvadorian name",2,0.62%
+1,Race and national origin,Hispanic/Latin American/Caribbean,Hispanic name,2,0.62%
+1,Race and national origin,Hispanic/Latin American/Caribbean,Hispanic-sounding name,6,1.87%
+1,Race and national origin,Indigenous,Indigenous name,1,0.31%
+1,Race and national origin,Indigenous,Indigenous origin,1,0.31%
+1,Race and national origin,Indigenous,Indigenous-sounding name,1,0.31%
+1,Race and national origin,Mixed/Multiple,Asian domestic-born or white domestic-born,1,0.31%
+1,Race and national origin,Mixed/Multiple,Foreign-born,5,1.56%
+1,Race and national origin,Mixed/Multiple,"Ghanaian, Moroccan, Slovakian, or Turkish name",1,0.31%
+1,Race and national origin,Mixed/Multiple,Mestizo phenotype,1,0.31%
+1,Race and national origin,Mixed/Multiple,Roma name,1,0.31%
+1,Race and national origin,Mixed/Multiple,Surinamese name,1,0.31%
+1,Race and national origin,Northern European/Western European,English name,1,0.31%
+1,Race and national origin,Northern European/Western European,French name,1,0.31%
+1,Race and national origin,Northern European/Western European,German name,4,1.25%
+1,Race and national origin,Northern European/Western European,Latvian or Lithuanian name,1,0.31%
+1,Race and national origin,Southern Asian/Indian,Indian or Pakistani name,3,0.93%
+1,Race and national origin,Southern Asian/Indian,Muslim Pakistani name,1,0.31%
+1,Race and national origin,Southern Asian/Indian,Pakistani name,4,1.25%
+1,Race and national origin,Southern European,Albanian name,3,0.93%
+1,Race and national origin,Southern European,Albanian origin,1,0.31%
+1,Race and national origin,Southern European,Greek name,2,0.62%
+1,Race and national origin,Southern European,Italian name,2,0.62%
+1,Race and national origin,Southern European,Serbian name and appearance,1,0.31%
+1,Race and national origin,Western Asian,"Armenian, Azeri, Chechen, or Georgian name",1,0.31%
+1,Race and national origin,Western Asian,Azeri or Armenian name,1,0.31%
+1,Race and national origin,Western Asian,Georgian origin,1,0.31%
+1,Race and national origin,Western Asian,Kurdish name,1,0.31%
+1,Race and national origin,Western Asian,Turkish name,13,4.05%
+1,Race and national origin,Western Asian,Turkish name and appearance,1,0.31%
+1,Race and national origin,Western Asian,Uyghur name,1,0.31%
+2,Gender and motherhood status,Mother,Mother,9,2.80%
+2,Gender and motherhood status,Mother,Pregnant,1,0.31%
+2,Gender and motherhood status,Female gender,Female gender,64,19.94%
+2,Gender and motherhood status,Female gender,Female gender with feminine personality traits,1,0.31%
+2,Gender and motherhood status,Transgender,Transgender,2,0.62%
+3,Religion,Christian,Christian,1,0.31%
+3,Religion,Christian,"Evangelical, Jehovah’s Witness, or Pentecostal",1,0.31%
+3,Religion,Other,Jewish,1,0.31%
+3,Religion,Multiple,Buddhist or Hindu,2,0.62%
+3,Religion,Muslim,Hui or Uyghur Muslim,1,0.31%
+3,Religion,Muslim,Muslim,9,2.80%
+3,Religion,Muslim,Wearing a headscarf,1,0.31%
+3,Religion,Other,No religious affiliation,1,0.31%
+3,Religion,Other,Expressing a religious identity,1,0.31%
+4,Disability,Mental disability,Asperger’s Syndrome,1,0.31%
+4,Disability,Mental disability,Autism,1,0.31%
+4,Disability,Mental disability,Former depression,1,0.31%
+4,Disability,Mental disability,History of mental illness,1,0.31%
+4,Disability,Physical disability,Obese,4,1.25%
+4,Disability,Physical disability,Blindness or deafness,1,0.31%
+4,Disability,Physical disability,HIV infection,1,0.31%
+4,Disability,Physical disability,Spinal cord injury,1,0.31%
+4,Disability,Physical disability,Unspecified physical disability,1,0.31%
+4,Disability,Physical disability,Wheelchair user,2,0.62%
+5,Age,Old age,Age 36–70,1,0.31%
+5,Age,Old age,Age 37,2,0.62%
+5,Age,Old age,Age 38,1,0.31%
+5,Age,Old age,Age 46,1,0.31%
+5,Age,Old age,Age 47,4,1.25%
+5,Age,Old age,Age 47 or age 53,1,0.31%
+5,Age,Old age,Age 50,1,0.31%
+5,Age,Old age,Age 50 or age 44,1,0.31%
+5,Age,Old age,Age 50 or age 51,1,0.31%
+5,Age,Old age,"Age 50, age 55, or age 62",1,0.31%
+5,Age,Old age,Age 56,1,0.31%
+5,Age,Old age,Age 57 or age 58,1,0.31%
+5,Age,Old age,Age 60–61,1,0.31%
+5,Age,Old age,Age 64–66,2,0.62%
+5,Age,Young age,Age 22–23,1,0.31%
+5,Age,Young age,Age 23,1,0.31%
+6,Military service or affiliation,Military service,Current membership in the Reserves,1,0.31%
+6,Military service or affiliation,Military service,Military service,3,0.93%
+7,Wealth,Low class,Low-class background,3,0.93%
+7,Wealth,Low class,Non-upper-caste,2,0.62%
+7,Wealth,Low class,Residence in neighbourhood with bad reputation,1,0.31%
+7,Wealth,Low class,Residence in neighbourhood with poor reputation,2,0.62%
+10,Marital status,Married,Married,3,0.93%
+10,Marital status,Married,Married and childless,3,0.93%
+11,Sexual orientation,LGB+ organisation affiliation,LGB+ organisation affiliation,10,3.12%
+11,Sexual orientation,LGB+ orientation,Same-sex marriage partner,1,0.31%
+11,Sexual orientation,LGB+ orientation,LGB+ orientation,1,0.31%
+12,Political orientation,Political orientation,Orientation of mentioned youth political organisation,1,0.31%
+13,Union affiliation,Union affiliation,Mention of youth union membership,1,0.31%
+14,Physical appearance,Visible tattoo,Visible tattoo,1,0.31%
+14,Physical appearance,Low physical attractiveness,Facial disfigurement,1,0.31%
+14,Physical appearance,Low physical attractiveness,Low physical attractiveness,10,3.12%

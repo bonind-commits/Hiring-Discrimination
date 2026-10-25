@@ -1,0 +1,36 @@
+﻿ground,treatment_class,class_short
+Race and national origin,African/African American/Black,Afr. Am./Black
+Race and national origin,Arab/Maghrebi/Middle Eastern,Arab/Mid. Eas.
+Race and national origin,Asian (generic),Asian (gen.)
+Race and national origin,Central Asian,Cen. Asian
+Race and national origin,Eastern Asian/South-Eastern Asian,Asian (E/SE)
+Race and national origin,Eastern European,Eur. (E)
+Race and national origin,Hispanic/Latin American/Caribbean,His./Lat. Am.
+Race and national origin,Indigenous,Indigenous
+Race and national origin,Mixed/Multiple,Mixed/Multiple
+Race and national origin,Northern European/Western European,Eur. (N/W)
+Race and national origin,Southern Asian/Indian,Asian (S)
+Race and national origin,Southern European,Eur. (S)
+Race and national origin,Western Asian,Asian (W)
+Gender and motherhood status,Mother,Mother
+Gender and motherhood status,Female gender,Female
+Gender and motherhood status,Transgender,Trans
+Religion,Christian,Christian
+Religion,Multiple,Multiple
+Religion,Muslim,Muslim
+Religion,Other,Other
+Disability,Mental disability,Mental
+Disability,Physical disability,Physical
+Age,Old age,Old
+Age,Young age,Young
+Military service or affiliation,Military service,Mil. ser.
+Wealth,Low class,Low class
+Genetic information,,
+Citizenship status,,
+Marital status,Married,Married
+Sexual orientation,LGB+ organisation affiliation,LGB+ aff.
+Sexual orientation,LGB+ orientation,LGB+ ori.
+Political orientation,Political orientation,Pol. ori.
+Union affiliation,Union affiliation,Uni. aff.
+Physical appearance,Visible tattoo,Tattoo
+Physical appearance,Lower physical attractiveness,Low phy. att.
